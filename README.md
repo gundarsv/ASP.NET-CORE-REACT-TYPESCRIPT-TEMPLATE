@@ -6,6 +6,6 @@
 
 ##### Following things needs to be done before running the project
 1. Go to  **../ReactTypescript/ClientApp**
-2. Run command *yarn install* **or** *npm install*
+2. Run command *yarn install* **or** *npm install* (If you have npm installed)
 
 ### Now you are good to go and should be able to run this project.
