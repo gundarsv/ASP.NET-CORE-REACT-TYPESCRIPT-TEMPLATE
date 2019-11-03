@@ -1,7 +1,7 @@
 # ASP.Net Core React Typescript Template
 
 ##### To run this project you need to have
-- npm or yarn installed (I prefer to use yarn - [You can install yarn from here](https://yarnpkg.com/en/).
+- npm or yarn installed (I prefer to use yarn - [You can install yarn from here](https://yarnpkg.com/en/))
 - ASP.NET Core 3.0 SDK installed
 
 ##### Following things needs to be done before running the project
