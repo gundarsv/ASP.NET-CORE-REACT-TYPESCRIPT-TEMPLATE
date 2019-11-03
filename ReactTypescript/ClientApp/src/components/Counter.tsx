@@ -4,7 +4,7 @@ interface IState {
     currentCount:Number,
 }
 export class Counter extends Component {
-    state:IState
+  public state:IState;
   static displayName = Counter.name;
 
   constructor(props:any) {

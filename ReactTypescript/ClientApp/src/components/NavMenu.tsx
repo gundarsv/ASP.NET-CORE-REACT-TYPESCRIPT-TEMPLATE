@@ -8,7 +8,7 @@ interface IState {
 }
 
 export class NavMenu extends Component {
-  state:IState;
+  public state:IState;
   static displayName = NavMenu.name;
 
   constructor (props:any) {

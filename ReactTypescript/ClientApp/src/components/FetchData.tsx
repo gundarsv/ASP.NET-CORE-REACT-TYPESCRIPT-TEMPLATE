@@ -13,7 +13,7 @@ interface  IState {
 }
 
 export class FetchData extends Component {
-  state:IState;
+  public state:IState;
   static displayName = FetchData.name;
 
   constructor(props:any) {
