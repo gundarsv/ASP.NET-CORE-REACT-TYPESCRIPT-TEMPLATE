@@ -24,7 +24,7 @@ export class Counter extends Component {
       <div>
         <h1>Counter</h1>
 
-        <p>This is a very-hard example of a React component.</p>
+        <p>This is an example of a React component.</p>
 
         <p aria-live="polite">Current count: <strong>{this.state.currentCount}</strong></p>
 
